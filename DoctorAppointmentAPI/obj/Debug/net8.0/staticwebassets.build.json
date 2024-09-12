@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "cMinMYxJ+xuf0KDib1KLU8VA4aw7Hcsw6GeOMeOMmOU=",
+  "Source": "DoctorAppointmentAPI",
+  "BasePath": "_content/DoctorAppointmentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DoctorAppointmentAPI\\wwwroot",
+      "Source": "DoctorAppointmentAPI",
+      "ContentRoot": "C:\\Users\\fathy\\source\\repos\\Docotr\\DoctorAppointmentAPI\\DoctorAppointmentAPI\\wwwroot\\",
+      "BasePath": "_content/DoctorAppointmentAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
